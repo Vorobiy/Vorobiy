@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning Programming.
 - 🌱 I’m currently learning Java, Python.
 - 💞️ I’m looking to collaborate on several projects, and learning opportunities.
-- 📫 How to reach me: eugenevorob@gmail.com
+- 📫 How to reach me: 
 
 <!---
 Vorobiy/Vorobiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
