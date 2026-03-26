@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I’m Eugene Vorobiov.<br>🎓 I'm currently studying at TMU (Toronto Metropolitan University)<br>♣ I'm a part of QSEC (Quantum Science and Engineering Club)<br>🚀 I'm a part of MetRocketry (Avionics and Payload Team)<br>👀 I’m interested in Learning Robotics, CAD software, and software Engineering.<br>🌱 I’m currently learning Data Structures and algorithms, full-stack development, Onshape, and Arduino.<br>💞️ I’m looking to collaborate on several projects, and learning opportunities.
+👋 Hi! I’m Eugene Vorobiov.<br>🎓 I'm currently studying at TMU (Toronto Metropolitan University)<br>♣ I'm a part of KiwiCharge Inc. As a Robotics Software Engineer<br>🚀 I'm a part of MetRocketry (Avionics and Payload Team)<br>👀 I’m interested in Learning Robotics, CAD software, and software Engineering.<br>🌱 I’m currently learning Data Structures and algorithms, full-stack development, Onshape, and Arduino.<br>💞️ I’m looking to collaborate on several projects, and learning opportunities.
 
 
 ## 🌐 Socials:
