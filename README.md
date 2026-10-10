@@ -55,9 +55,6 @@ I'm a student at **Toronto Metropolitan University** who likes building things t
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vorobiy&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&bg_color=0d1117" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vorobiy&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117" />
 </p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Vorobiy&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
 
 <!-- Footer -->
 <p align="center">
