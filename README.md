@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Eugene%20Vorobiov&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Robotics%20Software%20%E2%80%A2%20Avionics%20%E2%80%A2%20Full-Stack&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Eugene%20Vorobiov&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Robotics%20Software%20%E2%80%A2%20Embedded%20%E2%80%A2%20Full-Stack&descAlignY=58&descSize=16" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Writing+software+that+moves+robots;Building+avionics+that+flies+rockets;Shipping+web+apps+on+the+side" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Writing+software+that+moves+robots;Building+bipedals+that+move+autonomously;Shipping+web+apps+on+the+side" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,8 +25,8 @@ I'm a student at **Toronto Metropolitan University** who likes building things t
 
 | | |
 |---|---|
-| 🤖 **Work** | Robotics Software Engineer @ **KiwiCharge Inc.** |
-| 🚀 **Team** | Avionics & Payload @ **MetRocketry** |
+| 🤖 **Internships** | Robotics Software Engineer Intern @ **KiwiCharge Inc.** |
+| 🚀 **Team** | Building Humanoid Robotics Club @ Toronto Metropolitan University |
 | 🎓 **School** | Toronto Metropolitan University |
 | 🌱 **Learning** | Data structures & algorithms · full-stack dev · Onshape CAD · Arduino |
 | 🤝 **Open to** | Collaborations, robotics/embedded projects, learning opportunities |
