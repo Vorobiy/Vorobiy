@@ -19,7 +19,7 @@
 
 ### 👋 About me
 
-I'm a student at **Toronto Metropolitan University** who likes building things that exist in the real world — robots, rockets, and the software that ties them together. I'm always up for collaborating on projects where hardware meets code.
+I'm a student at **Toronto Metropolitan University** who likes building things that exist in the real world — robots, drones, and the software that ties them together. I'm always up for collaborating on projects where hardware meets code.
 
 ### 🛰️ Right now
 
